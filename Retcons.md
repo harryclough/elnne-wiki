@@ -1,0 +1,6 @@
+# V3.0 Patch Notes (Retcons)
+While worldbuilding a new region of the world, some of the lore previously established needed to be changed. These changes are mostly high level stuff that it's possible even my previous players weren't aware of. This page is just to explain away possible continuity errors, and is mostly for the DM. These changes shouldn't really effect the actual canon established in either of the prior campaigns.
+
+Changes:
+- **The Great Fracture** -- Magic is no longer split explicitly North-South, the split is now much more random: it varies by region, and can change over time. All established locations experience the same effects, so Ottria and Stai have stronger Mental magic and weaker physical, and vice-versa for Umbrex and Kolith.
+- **World Map** -- The world map has been scaled down and moved around a bit. The Kingdom of Averan and continent of Akion are completely different, but didn't feature in the previous campaigns anyway. I will possibly draw an updated map at some point.

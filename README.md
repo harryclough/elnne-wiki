@@ -9,4 +9,4 @@ Head to the main [Lore](Lore.md) page to get started!
 
 ---
 
-If you've played in one of my first campaigns, you might be interested in checking out the [Retcons](Retcons.md) page.
+If you've played in one of my first campaigns and paid a lot of attention to the lore, you might be interested in checking out the [Retcons](Retcons.md) page.
